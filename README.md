@@ -44,13 +44,13 @@ npm run dev
 
 ## 🌐 Live Demo
 
-> (Add your deployed link here)
+> (will deploy soon)
 
 ---
 
 ## 📸 Screenshots
 
-> (Add screenshots of your UI here)
+> (will add soon)
 
 ---
 
