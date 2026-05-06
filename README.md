@@ -1,16 +1,78 @@
-# React + Vite
+# 🌴 Haven Resort Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, luxury-style resort website built using **React**, **Tailwind CSS**, and **Framer Motion**.
+Designed with a premium UI/UX inspired by high-end hotel websites.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tech Stack
 
-## React Compiler
+* **Frontend:** React.js
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion
+* **Icons & UI:** Custom + Tailwind
+* **Map:** Google Maps Embed
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/haven-resort.git
+```
+
+2. Navigate to project folder:
+
+```bash
+cd haven-resort
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+> (Add your deployed link here)
+
+---
+
+## 📸 Screenshots
+
+> (Add screenshots of your UI here)
+
+---
+
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repo and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
