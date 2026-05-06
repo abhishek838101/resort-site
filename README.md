@@ -13,11 +13,6 @@ Designed with a premium UI/UX inspired by high-end hotel websites.
 * **Icons & UI:** Custom + Tailwind
 * **Map:** Google Maps Embed
 
----
-
-## 📂 Project Structure
-
-
 
 ## ⚙️ Installation & Setup
 
