@@ -17,7 +17,7 @@ Designed with a premium UI/UX inspired by high-end hotel websites.
 
 ## 📂 Project Structure
 
-```
+
 
 ## ⚙️ Installation & Setup
 
